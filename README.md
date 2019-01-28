@@ -1,5 +1,6 @@
 # latihan1
 
+cara membuat reporsitory
 **1**
 ![haslnya](https://github.com/salwahananda/latihan1/blob/master/1.JPG)
 **2**
